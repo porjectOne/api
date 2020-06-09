@@ -1,0 +1,66 @@
+[
+    {
+        "room": "B112",
+        "building": "B",
+        "capacity": 60,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B113",
+        "building": "B",
+        "capacity": 50,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B114",
+        "building": "B",
+        "capacity": 50,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B115",
+        "building": "B",
+        "capacity": 60,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B116",
+        "building": "B",
+        "capacity": 50,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B117",
+        "building": "B",
+        "capacity": 40,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B118",
+        "building": "B",
+        "capacity": 50,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    },
+    {
+        "room": "B119",
+        "building": "B",
+        "capacity": 50,
+        "type": "CCPOT",
+        "status": 1,
+        "active": 1
+    }
+]
