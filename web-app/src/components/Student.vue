@@ -101,7 +101,7 @@ export default {
         { text: 'นามสกุล', value: 'student_lastname' },
         { text: 'สาขา', value: 'major' },
         { text: 'อีเมลล์', value: 'email' },
-        { text: 'เบอร์โทร', value: 'phone' },
+        { text: 'เบอร์โทร', value: 'tel' },
         { text: 'สเตตัส', value: 'status' },
         { text: 'Actions', value: 'actions', sortable: false },
       ],
@@ -115,7 +115,7 @@ export default {
         student_lastname:'',
         major: '',
         email: '',
-        phone: '',
+        tel: '',
         status: ''
       },
     }),

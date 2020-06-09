@@ -28,7 +28,7 @@
               <v-container>
                 <v-row>
                   <v-col cols="12" sm="6" md="4">
-                    <v-text-field v-model="editedItem.name" label="ห้อง"></v-text-field>
+                    <v-text-field v-model="editedItem.room_id" label="ห้อง"></v-text-field>
                   </v-col>
                   <v-col cols="12" sm="6" md="4">
                     <v-text-field v-model="editedItem.building" label="อาคาร"></v-text-field>
@@ -110,7 +110,7 @@ export default {
           text: 'ห้อง',
           align: 'start',
           sortable: false,
-          value: 'name',
+          value: 'room_id',
         },
         { text: 'อาคาร', value: 'building' },
         { text: 'ความจุ', value: 'size' },
@@ -126,7 +126,7 @@ export default {
       editedItem: {
       },
       defaultItem: {
-        name: '',
+        room_id: '',
         building: '',
         size: 0,
         type: '',

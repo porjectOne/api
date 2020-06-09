@@ -14,7 +14,7 @@ Vue.config.productionTip = false;
 //   Vue.prototype.$http.defaults.headers.common['Authorization'] = token;
 // }
 Vue.prototype.$http = require('axios');
-Vue.prototype.$mainUrl = 'http://188.166.212.218:3000/'
+Vue.prototype.$mainUrl = 'http://localhost:3000/'
 
 new Vue({
   vuetify,

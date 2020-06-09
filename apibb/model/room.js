@@ -4,7 +4,7 @@ const table = 'rooms';
 
 // constructor
 const Room = function(room) {
-    this.name = room.name;
+    this.room_id = room.name;
     this.building = room.building;
     this.size = room.size;
     this.type = room.type;
